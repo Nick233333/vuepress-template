@@ -4,6 +4,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/images/favicon.png' }]
     ],
+    base: '/docs/',
     themeConfig: {
         nav: [
             { text: '导航栏一', link: '/' },
