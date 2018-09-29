@@ -4,7 +4,6 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/images/favicon.png' }]
     ],
-    base: '/docs/',
     dest: './dist',
     themeConfig: {
         lastUpdated: '上次更新',
