@@ -5,7 +5,9 @@ module.exports = {
         ['link', { rel: 'icon', href: '/images/favicon.png' }]
     ],
     base: '/docs/',
+    dest: './dist',
     themeConfig: {
+        lastUpdated: '上次更新',
         nav: [
             { text: '导航栏一', link: '/' },
             { text: '导航栏二', link: '/docs/html/' },
