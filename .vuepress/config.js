@@ -1,6 +1,6 @@
 module.exports = {
     title: 'vuepress',
-    description: 'vuepress-template description',
+    description: 'vuepress-template',
     head: [
         ['link', { rel: 'icon', href: '/images/favicon.png' }]
     ],

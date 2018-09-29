@@ -1,8 +1,6 @@
-# Hello VuePress
-
-```
-npm install -g vuepress
-echo '# Hello VuePress' > README.md
-vuepress dev
-vuepress build
-```
+---
+home: true
+heroImage: /images/favicon.png
+actionText: 阅读
+actionLink: /css/
+---
