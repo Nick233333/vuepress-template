@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-template",
+  "version": "1.0.0",
+  "description": "--- home: true heroImage: /images/favicon.png actionText: 阅读 actionLink: /docs/css/ ---",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick233333/vuepress-template.git"
+  },
+  "author": "Nick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nick233333/vuepress-template/issues"
+  },
+  "homepage": "https://github.com/Nick233333/vuepress-template#readme"
+}
