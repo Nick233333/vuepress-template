@@ -8,11 +8,17 @@ module.exports = {
     themeConfig: {
         lastUpdated: '上次更新',
         repo: 'Nick233333/vuepress-template',
-        repoLabel: '代码',
+        repoLabel: 'GitHub',
         nav: [
             { text: '导航栏一', link: '/' },
             { text: '导航栏二', link: '/html/' },
             { text: '导航栏三', link: '/css/' },
+            { 
+                text: '导航栏四', 
+                items: [
+                    { text: 'test', link: '/test/test.md' },
+                ] 
+            },
         ],
         sidebar: [
             {
