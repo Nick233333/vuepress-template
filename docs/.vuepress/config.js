@@ -5,7 +5,6 @@ module.exports = {
         ['link', { rel: 'icon', href: '/images/favicon.png' }]
     ],
     dest: './dist',
-    base: '/dist/',
     themeConfig: {
         lastUpdated: '上次更新',
         repo: 'Nick233333/vuepress-template',
