@@ -22,6 +22,6 @@
   "homepage": "https://nick233333.github.io/vuepress-template/dist/",
   "dependencies": {
     "leancloud-storage": "^3.11.1",
-    "valine": "^1.3.4"
+    "valine": "^1.4.15"
   }
 }
