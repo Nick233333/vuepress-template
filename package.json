@@ -23,5 +23,8 @@
   "dependencies": {
     "leancloud-storage": "^3.11.1",
     "valine": "^1.4.15"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.9"
   }
 }
